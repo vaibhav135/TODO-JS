@@ -1,0 +1,43 @@
+.Main{
+	align-items: center;
+}
+
+.Header{
+	display: inline-flex;
+	align-items: center;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.AddTaskButton{
+	width : 6em; 
+	height : 2.5em;
+	margin-left: 8em;
+	text-decoration: none;
+	background-color: green;
+	color: white;
+	border: 1px solid;
+	border-radius: 0.7em;
+	font-weight: bold;
+}
+
+.AddTaskButton:hover{
+	background-color: white;
+	color: green;
+
+}
+
+.Task{
+	display: flex;
+	flex-direction: row;
+	width: 25em;
+    padding-left: 2em;
+	height: auto;
+	background-color: lightgray;
+	margin-top: 2em;
+	margin-bottom: 2.5em;
+	border-radius: 5px;
+}
+
+
+	
+

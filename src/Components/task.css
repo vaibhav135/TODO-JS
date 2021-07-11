@@ -1,0 +1,17 @@
+/*.SingularData{*/
+	/*display: flex;*/
+	/*flex-direction: column;*/
+	/*width: 25em;*/
+    /*padding-left: 2em;*/
+	/*height: auto;*/
+	/*background-color: lightgray;*/
+/*}*/
+
+#del{
+	margin-left: 15em;
+}
+
+#del:hover{
+	color: gray;
+}
+
